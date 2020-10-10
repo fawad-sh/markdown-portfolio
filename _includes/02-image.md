@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Logo of Minds Training Centre](https://mindsuae.com/wp-content/fast/images/Minds-logo.jpg)
